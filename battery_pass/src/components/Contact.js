@@ -8,7 +8,9 @@ export class Contact extends Component {
             <>
                 <NavigationBar />
                 <div>
-                    Contact Page
+                    Contact Us!
+                    <br/>
+                    Our Email: batterypass-llp2023@lists.stanford.edu
                 </div>
                 <Footer />
             </>

@@ -8,7 +8,12 @@ export class About extends Component {
             <>
                 <NavigationBar />
                 <div>
-                    About Page
+                    Our Team
+                    <br/>
+                    <img
+                        alt=""
+                        src="/team.png"
+                    />{' '}
                 </div>
                 <Footer />
             </>

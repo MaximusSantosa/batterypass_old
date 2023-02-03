@@ -34,7 +34,6 @@ export class Home extends Component {
                             <Button>Learn More</Button>
                             </div>
                             <div className="flip-card-back">
-                            <form action="mailto:maximussantosa@gmail.com" method="GET">
                                 <Form>
                                 <Form.Group className="mb-3" controlId="formBasicEmail">
                                     <Form.Control type="email" placeholder="Enter email" />
@@ -43,7 +42,6 @@ export class Home extends Component {
                                 </Button>
                                 </Form.Group>
                                 </Form>
-                            </form>
                             </div>
                         </div>
                         </div>
